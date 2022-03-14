@@ -197,6 +197,8 @@ s0.parentNode.insertBefore(s1,s0);
 									<a href="services.php"><i class="fal fa-minus"></i> Services</a>
 									<a href="#"><i class="fal fa-minus"></i> Team</a>
 									<a href="careers.php"><i class="fal fa-minus"></i> Careers</a>
+                  <a href="contact.php"><i class="fal fa-minus"></i>Contact Us</a> 
+
 								</li>
 							</ul>
 						</div>
@@ -205,11 +207,11 @@ s0.parentNode.insertBefore(s1,s0);
 							<ul>
 								<li> 
 									<!-- <a href="login.php"><i class="fal fa-minus"></i> Login </a> -->
-								
-									<a href="contact.php"><i class="fal fa-minus"></i>Contact Us</a> 
-								
-									<a href="assets/FuelocityPrivacyPolicy.pdf" target="_blank"><i class="fal fa-minus"></i>Privacy Policy</a> 
-								
+								  <a href="assets/FuelocityPrivacyPolicy.pdf" target="_blank"><i class="fal fa-minus"></i>Privacy Policy</a> 
+									<a href="terms-condition.php"><i class="fal fa-minus"></i> Term & Condition </a>
+                  <a href="shipping-policy.php"><i class="fal fa-minus"></i> Shipping Policy </a>
+                  <a href="refund-policy.php"><i class="fal fa-minus"></i> Refund Policy </a>
+
 								</li>
 							</ul>
 						</div>
